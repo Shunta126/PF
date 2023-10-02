@@ -3,10 +3,10 @@ _Log_Find_Foods_
 # テーマ
 サイトを通じて料理の共有、記録として残せるサイトになります。
 # 使用言語
-・HTML
-・CSS
-・Ruby
-・JavaScript
+*HTML
+*CSS
+*Ruby
+*JavaScript
 ### フレームワーク
 ・Ruby on Rails
 # 実装機能
