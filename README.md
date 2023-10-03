@@ -33,5 +33,5 @@
 - IDE：Cloud9
 
 ## 使用素材
-画像素材
-pixaboy https://pixabay.com/ja/photos/
+・フリー素材として以下を使用  
+ ⦿pixaboy (https://pixabay.com/ja/photos/)
